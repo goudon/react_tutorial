@@ -1,3 +1,13 @@
+## reactチュートリアルの実施メモ
+### 通しで理解できた箇所
+* 親から子へのデータ受け渡し
+* コンポーネント・クラスでのデータの扱い
+### 通しでよくわからなかった箇所
+* 子から親に渡すデータ
+squareのボタンイベントで制御しているhandleClickとonClickは連携している？
+### やってみたこと
+ドローとなる判定を追加
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
